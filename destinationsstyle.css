@@ -11,7 +11,7 @@ body{
     align-items: center;
     background-color:  #333;
     color: #fff;
-    padding: 20px 0;
+    padding: 20px 20px;
 }
 .logo{
     width: 70px;
@@ -23,7 +23,7 @@ body{
 }
 .menu-item{
     display: inline;
-    margin: 0px;
+    margin: 20px;
     
 }
 .menu-item-link{
@@ -75,4 +75,5 @@ body{
     position: fixed;
     bottom: 0;
     width: 100%;
+
 }
